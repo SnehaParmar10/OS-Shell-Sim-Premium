@@ -1,4 +1,4 @@
-..zz# 📟 OS Shell Sim | Operating System Emulator
+# 📟 OS Shell Sim | Operating System Emulator
 
 A retro-futuristic terminal-based emulator that simulates core Operating System behaviors and scheduling algorithms.
 
